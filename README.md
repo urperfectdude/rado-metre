@@ -6,10 +6,10 @@
 
 <p float="left">
 
-  <img src="https://user-images.githubusercontent.com/41485907/218252303-840c40d5-234d-4ab3-88b7-0e288261a7d7.png" width="100">
+  <img src="https://user-images.githubusercontent.com/41485907/218252303-840c40d5-234d-4ab3-88b7-0e288261a7d7.png" width="400">
 
   
-  <img src="https://user-images.githubusercontent.com/41485907/218252235-2150d6ef-f0b2-48b4-b740-828aee1dc894.png" width="100">
+  <img src="https://user-images.githubusercontent.com/41485907/218252235-2150d6ef-f0b2-48b4-b740-828aee1dc894.png" width="400">
 
  
 </p>
