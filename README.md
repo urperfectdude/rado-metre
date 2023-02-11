@@ -15,7 +15,16 @@
 
 ## Packages Used
  1. motion_sensors:
+     - Connects with the sensor of the mobile phone
+     
  2. provider:
+      - State Management
+      
  3. vector_math:
+      - Store the values of co-ordinates received from motion sensors and convert to vector art
+      
  4. syncfusion_flutter_gauges:
+      - Create Circular gauge animation
+      
  5. syncfusion_flutter_charts:
+      - Create Visualisation charts from the recorded coordinates
