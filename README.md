@@ -1,4 +1,3 @@
-﻿### Link to web App : https://rado-metre.web.app/
  
  # Rado metre App
 
