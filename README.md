@@ -11,5 +11,11 @@
   
   <img src="https://user-images.githubusercontent.com/41485907/218252235-2150d6ef-f0b2-48b4-b740-828aee1dc894.png" width="400">
 
- 
 </p>
+
+## Packages Used
+ 1. motion_sensors:
+ 2. provider:
+ 3. vector_math:
+ 4. syncfusion_flutter_gauges:
+ 5. syncfusion_flutter_charts:
